@@ -9,10 +9,17 @@
 </head>
 
 <body>
+    <div>
+        <ul>
+            <li>
+                <a href="If_stattements.php">IF CONDITIONS </a>
+            </li>
+            <li>
+            </li>
+        </ul>
+    </div>
     <?php
-
-    echo 'Hello world.<br/>';
-    echo 'Hi ';
+    echo"HELLO";
     ?>
 </body>
 
